@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         App app = new App();
-        System.out.println("Hello Maven + Jenkins! 5 + 7 = " + app.add(5, 7));
+        System.out.println("Hello from feature branch! 5 + 7 = " + app.add(5, 7));
     }
 }
